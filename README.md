@@ -1,7 +1,10 @@
 # DIO - Trilha Java Básico
 www.dio.me
 
-#### Autores
+#### Desenvolvido por:
+- [Izaú Araújo](https://github.com/izauaraujo)
+
+#### Autor do Desafio
 - [Gleyson Sampaio](https://github.com/glysns)
 
 ## Sintaxe - Desafio
